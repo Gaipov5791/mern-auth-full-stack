@@ -1,1 +1,1 @@
-https://github.com/Gaipov5791/mern-auth-full-stack
+https://Gaipov5791/mern-auth-full-stack
