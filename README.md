@@ -1,1 +1,1 @@
-# mern-auth-full-stack
+https://github.com/Gaipov5791/mern-auth-full-stack
